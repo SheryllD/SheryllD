@@ -7,4 +7,7 @@ With a growing expertise in data analytics, data science and AI, I am continuous
 Beyond marketing, I have hands-on experience in full-stack web development, working with the MERN stack to create digital solutions that integrate business intelligence with user experience. My ability to bridge the gap between marketing, technology, and operations allows me to build efficient, high-performing teams and deliver sustainable growth.
 
 I thrive in dynamic environments where innovation, analytical thinking, and strategic execution come together. Whether leading teams, optimising workflows, or refining digital strategies, my focus is on delivering results, improving efficiency, and driving long-term business success.
+
 I am enthusiastic about connecting with like-minded professionals and am always open to collaborations and new opportunities!
+
+Let's connect!
