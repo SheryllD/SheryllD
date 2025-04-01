@@ -15,9 +15,9 @@ Let's connect! :)
 ## Data Analytics, Engineering & Marketing Stack:
 
 **Languages & Tools:**
-• Python: pandas, NumPy, matplotlib, seaborn, Plotly, datetime
-• R: exploratory data analysis, statistics (basic)
-• SQL: MySQL, PostgreSQL – schema design, joins, CTEs, window functions, indexing
+- Python: pandas, NumPy, matplotlib, seaborn, Plotly, datetime
+- R: exploratory data analysis, statistics (basic)
+- SQL: MySQL, PostgreSQL – schema design, joins, CTEs, window functions, indexing
 • Jupyter Notebook / JupyterLab: analysis, cleaning, reporting
 • Excel / Google Sheets: advanced formulas, pivot tables, VLOOKUP/XLOOKUP
 
