@@ -1,109 +1,49 @@
-# 👋 Hi, I’m Sheryll, 
 
-I am a strategic and data-driven marketing professional with over 15 years experience in marketing, data analytics, and project management. My expertise lies in optimising digital strategies, leveraging data insights, improving processes and driving business growth.
+# 👋 Hi, I'm Sheryll!
 
-With a growing expertise in data analytics, data science, AI and software engineering, I am continuously expanding my skills in R, Python, MERN Stack, SQL, BigQuery, Tableau, Machine Learning and Looker Studio to extract meaningful insights, automate processes, and improving decision-making. Beyond marketing, I have hands-on experience in full-stack web development, working with the MERN stack to create digital solutions, shipping products fast that integrate business with user experience. My ability to bridge the gap between marketing, technology, and operations allows me to build efficient, high-performing teams and deliver sustainable growth.
+I’m a strategic, data-driven marketing professional with 15+ years of experience across growth marketing, data analytics, and project management — now expanding into full-stack development, AI, and data engineering.
 
-I thrive in dynamic environments where innovation, analytical thinking, and strategic execution come together. Whether leading teams, optimising workflows, buidling products or refining digital strategies, my focus is on delivering results, improving efficiency, and driving long-term business success.
+My mission is to build products and solutions that combine business logic, user experience, and automation. I thrive at the intersection of strategy, technology, and human behaviour — whether it’s improving a campaign funnel or deploying a scalable API"s, Applications and Chrome Extensions.
 
-I am enthusiastic about connecting with like-minded professionals and am always open to collaborations and new opportunities!
+---
 
-Competitive edge: turning data into gold mines.
+## 🧰 Tech & Tool Stack
 
-Let's connect! :)
+**Languages & Data Tools**  
+Python · SQL (MySQL, PostgreSQL) · JavaScript · R · pandas · NumPy · JupyterLab  
 
--------------------
+**Data Engineering & Analytics**  
+RESTful APIs · Web Scraping (Selenium, BeautifulSoup) · ETL Pipelines · Airflow/dbt (foundational) · BigQuery · MongoDB · AWS  
 
-## Data Analytics, Engineering & Marketing Stack:
+**Machine Learning & AI**  
+scikit-learn · A/B Testing · Prompt Engineering · NLP (beginner) · TensorFlow (intro)  
 
-**Languages & Tools:**
-- Python: pandas, NumPy, matplotlib, seaborn, Plotly
-- R: exploratory data analysis, statistics
-- JavaScript
-- SQL: MySQL, PostgreSQL – schema design, joins, CTEs, window functions, indexing
-- Jupyter Notebook / JupyterLab: analysis, cleaning, reporting
-- Excel / Google Sheets: advanced formulas, pivot tables, VLOOKUP/XLOOKUP
+**Visualisation & BI**  
+Tableau · Power BI · Looker Studio · matplotlib · seaborn · Plotly  
 
-**Data Cleaning & Transformation:**
-- Handling nulls, duplicates, outliers, inconsistent data types.
-- Normalisation, standardisation, encoding categorical variables.
-- Feature engineering, aggregation, binning, and scaling.
-- Datetime conversion, time-series formatting, timezone handling.
-- String cleaning, formatting inconsistencies, and text preprocessing.
-- Schema alignment and reconciliation across datasets.
-- Preparing data for modelling, visualisation, or database ingestion.
+**Web & API Development**  
+Flask · FastAPI · React · Node.js · HTML/CSS/JS · Postman  
 
-**ETL & Data Engineering:**
-- Custom ETL/ELT pipelines using Python + SQL.
-- Consuming & designing RESTful APIs (requests, auth).
-- Web scraping (BeautifulSoup, Selenium).
-- CSV/JSON processing.
-- knowledge of Airflow / dbt.
+**Workflow & Tools**  
+GitHub · Docker (intro) · Trello · Notion · Slack · VS Code · Git Bash  
 
-**Databases & Storage:**
-- MySQL (incl. on cloud), PostgreSQL, SQLite
-- NoSQL: MongoDB 
-- AWS (foundational exposure).
-- Google BigQuery.
+---
 
-**Data Visualisation & BI Tools**
-- Tableau, Power BI, Studio Looker,  – dashboards, KPIs, reporting.
-- Python visual libraries – matplotlib, seaborn, Plotly.
+## 🎯 Business & Marketing Expertise
 
-**Machine Learning & Statistics:**
-- scikit-learn – regression, classification, clustering.
-- A/B Testing, Hypothesis Testing.
-- Descriptive & Inferential Statistics.
-- Prompt Engineering & NLP. 
-- TensorFlow / PyTorch.
-- Chatbot & API integration. 
+- Performance Marketing (Meta, Google, YouTube, TikTok, Affiliate)  
+- Conversion Rate Optimisation · Funnel Analysis · Behavioural Insights  
+- KPI Design · A/B Testing · Stakeholder Reporting  
+- Agile/Lean Thinking · Team Scaling · Startup Ecosystem Familiarity  
+- Cross-functional leadership across tech, marketing, and operations  
 
-**Full-Stack & Web Technologies:** 
-- HTML / CSS / JavaScript – for front-end.
-- Flask / FastAPI – Python-based backend development.
-- Node.js.
-- React. 
+---
 
-**Version Control, DevOps & Tools:**
-- Git / GitHub – version control, branching, pull requests (incl. team collaboration).
-- Postman – API testing.
-- Docker. 
-- VS Code, Git Bash / Terminal, Anaconda.
+## 🔗 Let’s Connect
 
-**Project Management & Collaboration:**
-- GitHub Projects.
-- Trello, Notion, Asana, Wruje – project management. 
-- Slack, MS Teams, Zoom, Google Meeting – remote collaboration.
+I'm always up for meaningful collaboration — especially on ethical tech, AI-powered tools, and growth-focused product innovation.
 
-**Business:**
-- Scaling Teams & Leading Teams.
-- Project Management & Budgeting: sharp, structured, on time - always. 
-- Workflow and Process Improvement (cut costs like a hot knife through butter).
-- Business Case Development & KPI Design.
-- Conversion Rate Optimisation (CRO).
-- User Behaviour Analysis & Funnel Analysis.
-- Product Performance Analysis.
-- Churn & Revenue Forecasting. 
-- Startup Ecosystem Familiarity.
-- Agile & Lean Methodologies.
-- Cross-Functional Collaboration & Stakeholder Management.
-- Reported directly to big dogs: Founders & Chief Executives.
-
-**Marketing & Product:** 
-- Channels: Meta (Facebook & Instagram), Google, Youtube, TikTok, Bing, Awin, Belboon. 
-- Media Buying & creating campaigns that convert.  
-- Conversion Rate Optimisation (CRO) – identifying funnel bottlenecks, testing hypotheses, UX to boost conversions and Ad optimisation.
-- Implementation of GTM tracker, Meta Pixel, Meta Conversion API, Affiliate tags.  
-- A/B Testing & Experimentation – designing and analysing experiments to optimise messaging, layout, or product features.
-- KPI & Performance Tracking – defining, monitoring, and analysing key marketing and growth metrics.
-- User Segmentation & Targeting – understanding audiences by behaviour, demographics, or acquisition source.
-- Customer Journey Mapping – analysis of touchpoints from awareness to post-purchase.
-- Landing Page Optimisation – aligning content, layout, and CTA for higher engagement.
-- Performance Campaign Insights – experience interpreting data from paid channels.
-- SEO & Keyword Analysis, technical SEO – developing tools and analysis for search behaviour and trend insights.
-- Market & Competitor Research – identifying opportunities, trends, and whitespace for positioning.
-- Business Case Writing – translating market/user insights into structured, goal-oriented business proposals.
-- Stakeholder Reporting – creating clear, data-backed narratives for product, marketing, or leadership teams.
+📫 [LinkedIn](https://www.linkedin.com/in/sherylldumapal)  
 
 Current Tech Product on the market: 
 News API: https://rapidapi.com/sherdumapal/api/climate-change-news-api5
