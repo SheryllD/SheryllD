@@ -7,37 +7,44 @@ My mission is to build products and solutions that combine business logic, user 
 
 ---
 
+
 ## 🧰 Tech & Tool Stack
 
-**Languages & Data Tools**  
-Python · SQL (MySQL, PostgreSQL) · JavaScript · R · pandas · NumPy · JupyterLab  
+### 💻 Languages & Data Tools  
+Python · SQL (MySQL, PostgreSQL) · JavaScript · R · pandas · NumPy · JupyterLab
 
-**Data Engineering & Analytics**  
-RESTful APIs · Web Scraping (Selenium, BeautifulSoup) · ETL Pipelines · Airflow/dbt (foundational) · BigQuery · MongoDB · AWS · Studio Looker · GA4
+### 🔧 Data Engineering & Analytics  
+RESTful APIs · Web Scraping (Selenium, BeautifulSoup) · ETL Pipelines  
+Airflow / dbt (foundational) · BigQuery · MongoDB · AWS · Studio Looker · Google Analytics 4 (GA4)
 
-**Machine Learning & AI**  
-scikit-learn · A/B Testing · Prompt Engineering · NLP (beginner) · TensorFlow   
+### 🤖 Machine Learning & AI  
+scikit-learn · TensorFlow (intro) · Prompt Engineering · NLP (beginner)  
+A/B Testing · Hypothesis Testing · Statistical Modelling  
 
-**Visualisation & BI**  
-Tableau · Power BI · Looker Studio · matplotlib · seaborn · Plotly  
+### 📊 Visualisation & BI  
+Tableau · Power BI · Looker Studio · matplotlib · seaborn · Plotly
 
-**Web & API Development**  
-Flask · FastAPI · React · Node.js · HTML/CSS/JS · Postman  
+### 🌐 Web & API Development  
+HTML · CSS · JavaScript · React · Node.js  
+Flask · FastAPI · Postman  
 
-**Workflow & Tools**  
-GitHub · Docker (intro) · Trello · Notion · Slack · VS Code · Git Bash  
+### 🛠 Workflow, Version Control & Collaboration  
+Git / GitHub · Docker · VS Code · Git Bash  
+Trello · Notion · Wrike · Slack  
 
 ---
 
 ## 🎯 Business & Marketing Expertise
 
-- Performance Marketing (Meta, Google, YouTube, TikTok, Affiliate)  
-- Conversion Rate Optimisation · Funnel Analysis · Behavioural Insights  
-- KPI Design · A/B Testing · Stakeholder Reporting  
-- Agile/Lean Thinking · Team Scaling · Startup Ecosystem Familiarity  
-- Cross-functional leadership across tech, marketing, and operations  
+- Performance Marketing (Meta, Google, YouTube, TikTok, Bing, Affiliate)
+- Conversion Rate Optimisation (CRO) · Funnel Analysis · KPI Design
+- SEO & Keyword Strategy · Customer Journey Mapping · Landing Page Optimisation
+- A/B Testing · Behavioural Targeting · Campaign Analytics
+- Business Case Development · Stakeholder Reporting · Agile & Lean Workflows
+- Startup Ecosystem Familiarity · Cross-functional Leadership
 
 ---
+
 
 ## 🔗 Let’s Connect
 
