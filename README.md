@@ -8,6 +8,8 @@ I thrive in dynamic environments where innovation, analytical thinking, and stra
 
 I am enthusiastic about connecting with like-minded professionals and am always open to collaborations and new opportunities!
 
+Competitive edge: turning data into gold mines.
+
 Let's connect! :)
 
 -------------------
@@ -97,8 +99,6 @@ Let's connect! :)
 - Market & Competitor Research – identifying opportunities, trends, and whitespace for positioning.
 - Business Case Writing – translating market/user insights into structured, goal-oriented business proposals.
 - Stakeholder Reporting – creating clear, data-backed narratives for product, marketing, or leadership teams.
-
-Competitive edge: turning data into gold mines.
 
 Current Tech Product on the market: 
 News API: https://rapidapi.com/sherdumapal/api/climate-change-news-api5
