@@ -48,7 +48,7 @@ Trello · Notion · Wrike · Slack
 
 ## 🔗 Let’s Connect
 
-I'm always up for meaningful collaboration — especially on ethical tech, AI-powered tools, and growth-focused product innovation.
+I'm always up for meaningful collaboration, especially on ethical tech, AI-powered tools, and growth-focused product innovation.
 
 📫 [LinkedIn](https://www.linkedin.com/in/sherylldumapal)  
 
