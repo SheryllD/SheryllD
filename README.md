@@ -8,27 +8,27 @@ My mission is to build products and solutions that combine business logic, user 
 ---
 
 
-## 🧰 Tech & Tool Stack
+## Tech & Tool Stack
 
-### 💻 Languages & Data Tools  
+### Languages & Data Tools  
 Python · SQL (MySQL, PostgreSQL) · JavaScript · R · pandas · NumPy · JupyterLab
 
-### 🔧 Data Engineering & Analytics  
+### Data Engineering & Analytics  
 RESTful APIs · Web Scraping (Selenium, BeautifulSoup) · ETL Pipelines  
 Airflow / dbt (foundational) · BigQuery · MongoDB · AWS · Studio Looker · Google Analytics 4 (GA4)
 
-### 🤖 Machine Learning & AI  
+### Machine Learning & AI  
 scikit-learn · TensorFlow (intro) · Prompt Engineering · NLP (beginner)  
 A/B Testing · Hypothesis Testing · Statistical Modelling  
 
-### 📊 Visualisation & BI  
+### Visualisation & BI  
 Tableau · Power BI · Looker Studio · matplotlib · seaborn · Plotly
 
-### 🌐 Web & API Development  
+### Web & API Development  
 HTML · CSS · JavaScript · React · Node.js  
 Flask · FastAPI · Postman  
 
-### 🛠 Workflow, Version Control & Collaboration  
+### Workflow, Version Control & Collaboration  
 Git / GitHub · Docker · VS Code · Git Bash  
 Trello · Notion · Wrike · Slack  
 
