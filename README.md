@@ -25,8 +25,13 @@ Let's connect! :)
 - Excel / Google Sheets: advanced formulas, pivot tables, VLOOKUP/XLOOKUP
 
 **Data Cleaning & Transformation:**
-- Handling nulls, duplicates, outliers, data types.
-- Normalisation, feature engineering, datetime conversion.
+- Handling nulls, duplicates, outliers, inconsistent data types.
+- Normalisation, standardisation, encoding categorical variables.
+- Feature engineering, aggregation, binning, and scaling.
+- Datetime conversion, time-series formatting, timezone handling.
+- String cleaning, formatting inconsistencies, and text preprocessing.
+- Schema alignment and reconciliation across datasets.
+- Preparing data for modelling, visualisation, or database ingestion.
 
 **ETL & Data Engineering:**
 - Custom ETL/ELT pipelines using Python + SQL.
