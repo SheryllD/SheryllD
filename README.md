@@ -45,5 +45,4 @@ I'm always up for meaningful collaboration — especially on ethical tech, AI-po
 
 📫 [LinkedIn](https://www.linkedin.com/in/sherylldumapal)  
 
-Current Tech Product on the market: 
-News API: https://rapidapi.com/sherdumapal/api/climate-change-news-api5
+Current Tech Product on the market: [News API](https://rapidapi.com/sherdumapal/api/climate-change-news-api5)
