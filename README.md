@@ -18,79 +18,79 @@ Let's connect! :)
 - Python: pandas, NumPy, matplotlib, seaborn, Plotly, datetime
 - R: exploratory data analysis, statistics (basic)
 - SQL: MySQL, PostgreSQL – schema design, joins, CTEs, window functions, indexing
-• Jupyter Notebook / JupyterLab: analysis, cleaning, reporting
-• Excel / Google Sheets: advanced formulas, pivot tables, VLOOKUP/XLOOKUP
+- Jupyter Notebook / JupyterLab: analysis, cleaning, reporting
+- Excel / Google Sheets: advanced formulas, pivot tables, VLOOKUP/XLOOKUP
 
 **Data Cleaning & Transformation:**
-• Handling nulls, duplicates, outliers, data types.
-• Normalisation, feature engineering, datetime conversion.
+- Handling nulls, duplicates, outliers, data types.
+- Normalisation, feature engineering, datetime conversion.
 
 **ETL & Data Engineering:**
-• Custom ETL/ELT pipelines using Python + SQL.
-• Consuming & designing RESTful APIs (requests, auth).
-• Web scraping (BeautifulSoup, Selenium).
-• CSV/JSON processing.
-• knowledge of Airflow / dbt.
+- Custom ETL/ELT pipelines using Python + SQL.
+- Consuming & designing RESTful APIs (requests, auth).
+- Web scraping (BeautifulSoup, Selenium).
+- CSV/JSON processing.
+- knowledge of Airflow / dbt.
 
 **Databases & Storage:**
-• MySQL (incl. on cloud), PostgreSQL, SQLite
-• NoSQL: MongoDB 
-• AWS (foundational exposure).
-• Google BigQuery.
+- MySQL (incl. on cloud), PostgreSQL, SQLite
+- NoSQL: MongoDB 
+- AWS (foundational exposure).
+- Google BigQuery.
 
 **Data Visualisation & BI Tools**
-• Tableau, Power BI, Studio Looker,  – dashboards, KPIs, reporting.
-• Python visual libraries – matplotlib, seaborn, Plotly.
+- Tableau, Power BI, Studio Looker,  – dashboards, KPIs, reporting.
+- Python visual libraries – matplotlib, seaborn, Plotly.
 
 **Machine Learning & Statistics:**
-• scikit-learn – regression, classification, clustering.
-• A/B Testing, Hypothesis Testing.
-• Descriptive & Inferential Statistics.
-• Prompt Engineering & NLP. 
-• TensorFlow / PyTorch.
-• Chatbot & API integration. 
+- scikit-learn – regression, classification, clustering.
+- A/B Testing, Hypothesis Testing.
+- Descriptive & Inferential Statistics.
+- Prompt Engineering & NLP. 
+- TensorFlow / PyTorch.
+- Chatbot & API integration. 
 
 **Full-Stack & Web Technologies:** 
-• HTML / CSS / JavaScript – for front-end.
-• Flask / FastAPI – Python-based backend development.
-• Node.js.
-• React. 
+- HTML / CSS / JavaScript – for front-end.
+- Flask / FastAPI – Python-based backend development.
+- Node.js.
+- React. 
 
 **Version Control, DevOps & Tools:**
-• Git / GitHub – version control, branching, pull requests (incl. team collaboration).
-• Postman – API testing.
-• Docker. 
-• VS Code, Git Bash / Terminal, Anaconda.
+- Git / GitHub – version control, branching, pull requests (incl. team collaboration).
+- Postman – API testing.
+- Docker. 
+- VS Code, Git Bash / Terminal, Anaconda.
 
 **Project Management & Collaboration:**
-• GitHub Projects.
-• Trello, Notion, Asana, Wruje – project management. 
-• Slack, MS Teams, Zoom, Google Meeting – remote collaboration.
+- GitHub Projects.
+- Trello, Notion, Asana, Wruje – project management. 
+- Slack, MS Teams, Zoom, Google Meeting – remote collaboration.
 
 **Business Skills:**
-• Team Building & Leading Teams.
-• Workflow and Process Improvement (cut costs like a hot knife through butter).
-• Business Case Development & KPI Design.
-• Conversion Rate Optimisation (CRO).
-• User Behaviour Analysis & Funnel Analysis.
-• Product Performance Analysis.
-• Churn & Revenue Forecasting. 
-• Startup Ecosystem Familiarity.
-• Agile & Lean Methodologies.
-• Cross-functional Collaboration. 
+- Team Building & Leading Teams.
+- Workflow and Process Improvement (cut costs like a hot knife through butter).
+- Business Case Development & KPI Design.
+- Conversion Rate Optimisation (CRO).
+- User Behaviour Analysis & Funnel Analysis.
+- Product Performance Analysis.
+- Churn & Revenue Forecasting. 
+- Startup Ecosystem Familiarity.
+- Agile & Lean Methodologies.
+- Cross-functional Collaboration. 
 
 **Marketing & Product Skills:** 
-• Channels: Meta (Facebook & Instagram), Google, Youtube, TikTok, Bing, Awin, Belboon. 
-• Media Buying & creating advertisment campaigns and ads that convert.  
-• Conversion Rate Optimisation (CRO) – identifying funnel bottlenecks, testing hypotheses, UX to boost conversions and Ad optimisation.
-• Implementation of GTM tracker, Meta Pixel, Meta Conversion API, Affiliate tags.  
-• A/B Testing & Experimentation – designing and analysing experiments to optimise messaging, layout, or product features.
-• KPI & Performance Tracking – defining, monitoring, and analysing key marketing and growth metrics.
-• User Segmentation & Targeting – understanding audiences by behaviour, demographics, or acquisition source.
-• Customer Journey Mapping – analysis of touchpoints from awareness to post-purchase.
-• Landing Page Optimisation – aligning content, layout, and CTA for higher engagement.
-• Performance Campaign Insights – experience interpreting data from paid channels.
-• SEO & Keyword Analysis, technical SEO – developing tools and analysis for search behaviour and trend insights.
-• Market & Competitor Research – identifying opportunities, trends, and whitespace for positioning.
-• Business Case Writing – translating market/user insights into structured, goal-oriented business proposals.
-• Stakeholder Reporting – creating clear, data-backed narratives for product, marketing, or leadership teams.
+- Channels: Meta (Facebook & Instagram), Google, Youtube, TikTok, Bing, Awin, Belboon. 
+- Media Buying & creating advertisment campaigns and ads that convert.  
+- Conversion Rate Optimisation (CRO) – identifying funnel bottlenecks, testing hypotheses, UX to boost conversions and Ad optimisation.
+- Implementation of GTM tracker, Meta Pixel, Meta Conversion API, Affiliate tags.  
+- A/B Testing & Experimentation – designing and analysing experiments to optimise messaging, layout, or product features.
+- KPI & Performance Tracking – defining, monitoring, and analysing key marketing and growth metrics.
+- User Segmentation & Targeting – understanding audiences by behaviour, demographics, or acquisition source.
+- Customer Journey Mapping – analysis of touchpoints from awareness to post-purchase.
+- Landing Page Optimisation – aligning content, layout, and CTA for higher engagement.
+- Performance Campaign Insights – experience interpreting data from paid channels.
+- SEO & Keyword Analysis, technical SEO – developing tools and analysis for search behaviour and trend insights.
+- Market & Competitor Research – identifying opportunities, trends, and whitespace for positioning.
+- Business Case Writing – translating market/user insights into structured, goal-oriented business proposals.
+- Stakeholder Reporting – creating clear, data-backed narratives for product, marketing, or leadership teams.
