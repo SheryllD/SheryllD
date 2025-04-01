@@ -91,7 +91,7 @@ Let's connect! :)
 
 **Marketing & Product:** 
 - Channels: Meta (Facebook & Instagram), Google, Youtube, TikTok, Bing, Awin, Belboon. 
-- Media Buying & creating advertisment campaigns and ads that convert.  
+- Media Buying & creating campaigns that convert.  
 - Conversion Rate Optimisation (CRO) – identifying funnel bottlenecks, testing hypotheses, UX to boost conversions and Ad optimisation.
 - Implementation of GTM tracker, Meta Pixel, Meta Conversion API, Affiliate tags.  
 - A/B Testing & Experimentation – designing and analysing experiments to optimise messaging, layout, or product features.
