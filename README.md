@@ -68,8 +68,9 @@ Let's connect! :)
 - Trello, Notion, Asana, Wruje – project management. 
 - Slack, MS Teams, Zoom, Google Meeting – remote collaboration.
 
-**Business Skills:**
-- Team Building & Leading Teams.
+**Business:**
+- Scaling Teams & Leading Teams.
+- Project Management & Budgeting: sharp, structured, on time - always. 
 - Workflow and Process Improvement (cut costs like a hot knife through butter).
 - Business Case Development & KPI Design.
 - Conversion Rate Optimisation (CRO).
@@ -78,9 +79,10 @@ Let's connect! :)
 - Churn & Revenue Forecasting. 
 - Startup Ecosystem Familiarity.
 - Agile & Lean Methodologies.
-- Cross-functional Collaboration. 
+- Cross-Functional Collaboration & Stakeholder Management.
+- Reported directly to big dogs: Founders & Chief Executives.
 
-**Marketing & Product Skills:** 
+**Marketing & Product:** 
 - Channels: Meta (Facebook & Instagram), Google, Youtube, TikTok, Bing, Awin, Belboon. 
 - Media Buying & creating advertisment campaigns and ads that convert.  
 - Conversion Rate Optimisation (CRO) – identifying funnel bottlenecks, testing hypotheses, UX to boost conversions and Ad optimisation.
@@ -96,5 +98,7 @@ Let's connect! :)
 - Business Case Writing – translating market/user insights into structured, goal-oriented business proposals.
 - Stakeholder Reporting – creating clear, data-backed narratives for product, marketing, or leadership teams.
 
-Product on the market: 
+Competitive edge: turning data into gold mines.
+
+Current Tech Product on the market: 
 News API: https://rapidapi.com/sherdumapal/api/climate-change-news-api5
