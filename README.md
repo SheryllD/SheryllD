@@ -8,9 +8,9 @@ My mission is to build products and solutions that combine business logic, user 
 ---
 
 
-## Tech & Tool Stack
+##Tech & Tool Stack
 
-### Languages & Data Tools  
+###Languages & Data Tools  
 Python · SQL (MySQL, PostgreSQL) · JavaScript · R · pandas · NumPy · JupyterLab
 
 ### Data Engineering & Analytics  
