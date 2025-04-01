@@ -1,9 +1,11 @@
 
 # 👋 Hi, I'm Sheryll!
 
-I’m a strategic, data-driven marketing professional with 15+ years of experience across growth marketing, data analytics, and project management. I am now expanding into full-stack development, AI, machine learning and data engineering.
+I'm a strategic, hands-on professional with 15+ years of experience in growth marketing, analytics, and project management. I've always been drawn to how data can shape smarter decisions, sharpen performance, and unlock new opportunities. Over time, I’ve moved deeper into the tech side. I have learnd to build things myself through full-stack development, machine learning, and data engineering.
 
-My mission is to build products and solutions that combine business logic, user experience, and automation. I thrive at the intersection of creativity, strategy, technology, and human behaviour — whether it’s improving processes, a campaign funnel, deploying scalable API's, applications ans chrome extensions.
+What drives me now is creating practical tools and products that connect business thinking with user needs and automation. I’m most at home where strategy meets creativity and code, whether I’m improving a workflow, tightening a funnel, or building an API, an app, or a browser extension. I like solving real problems and making things that work.
+
+Competitive edge: turning your data into gold mines.
 
 ---
 
