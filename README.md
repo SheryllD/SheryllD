@@ -95,3 +95,6 @@ Let's connect! :)
 - Market & Competitor Research – identifying opportunities, trends, and whitespace for positioning.
 - Business Case Writing – translating market/user insights into structured, goal-oriented business proposals.
 - Stakeholder Reporting – creating clear, data-backed narratives for product, marketing, or leadership teams.
+
+Product on the market: 
+News API: https://rapidapi.com/sherdumapal/api/climate-change-news-api5
