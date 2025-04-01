@@ -13,10 +13,10 @@ My mission is to build products and solutions that combine business logic, user 
 Python · SQL (MySQL, PostgreSQL) · JavaScript · R · pandas · NumPy · JupyterLab  
 
 **Data Engineering & Analytics**  
-RESTful APIs · Web Scraping (Selenium, BeautifulSoup) · ETL Pipelines · Airflow/dbt (foundational) · BigQuery · MongoDB · AWS  
+RESTful APIs · Web Scraping (Selenium, BeautifulSoup) · ETL Pipelines · Airflow/dbt (foundational) · BigQuery · MongoDB · AWS · Studio Looker · GA4
 
 **Machine Learning & AI**  
-scikit-learn · A/B Testing · Prompt Engineering · NLP (beginner) · TensorFlow (intro)  
+scikit-learn · A/B Testing · Prompt Engineering · NLP (beginner) · TensorFlow   
 
 **Visualisation & BI**  
 Tableau · Power BI · Looker Studio · matplotlib · seaborn · Plotly  
