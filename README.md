@@ -31,7 +31,7 @@ HTML · CSS · JavaScript · React · Node.js
 Flask · FastAPI · Postman  
 
 ### Workflow, Version Control & Collaboration  
-Git / GitHub · Docker · VS Code · Git Bash  
+Git / GitHub · Docker · VS Code · Git Bash · Cursor ·
 Trello · Notion · Wrike · Slack  
 
 ---
