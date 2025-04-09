@@ -13,7 +13,7 @@ Competitive edge: turning your data into gold mines.
 ## Tech & Tool Stack
 
 ### Languages & Data Tools  
-Python · SQL (MySQL, PostgreSQL) · JavaScript · R · pandas · NumPy · JupyterLab
+Python · SQL (MySQL, PostgreSQL) · JavaScript · TypeScript · R · Rstudio · Pandas · NumPy · JupyterLab
 
 ### Data Engineering & Analytics  
 RESTful APIs · Web Scraping (Selenium, BeautifulSoup) · ETL Pipelines  
